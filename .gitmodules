@@ -6,3 +6,7 @@
 	path = submodules/poa-token-market-net-ico
 	url = https://github.com/poanetwork/ico
 	branch = wizard
+[submodule "submodules/poa-web3-1.0"]
+	path = submodules/poa-web3-1.0
+	url = git@github.com:poanetwork/web3.js
+	branch = 1.0-22
